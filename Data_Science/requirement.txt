@@ -1,0 +1,97 @@
+ansi2html==1.9.2
+asttokens==3.0.0
+bleach==6.2.0
+blinker==1.9.0
+bokeh==3.7.3
+Bottleneck @ file:///C:/b/abs_816hr2khp1/croot/bottleneck_1731058648110/work
+Brotli @ file:///C:/b/abs_c415aux9ra/croot/brotli-split_1736182803933/work
+certifi==2025.8.3
+charset-normalizer==3.4.3
+click==8.2.1
+colorama==0.4.6
+comm==0.2.3
+contourpy @ file:///C:/b/abs_f2u2o_8s9g/croot/contourpy_1732540071787/work
+cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
+dash==3.2.0
+debugpy==1.8.16
+decorator==5.2.1
+docutils==0.22
+executing==2.2.1
+Flask==3.1.2
+fonttools @ file:///C:/b/abs_4crkswws2h/croot/fonttools_1737040078745/work
+graphviz==0.21
+idna==3.10
+importlib_metadata==8.7.0
+ipykernel==6.30.1
+ipython==9.5.0
+ipython_pygments_lexers==1.1.1
+itsdangerous==2.2.0
+jedi==0.19.2
+Jinja2==3.1.6
+joblib @ file:///C:/b/abs_0ahqdkwgvn/croot/joblib_1754310214981/work
+jupyter-dash==0.4.2
+jupyter_client==8.6.3
+jupyter_core==5.8.1
+kiwisolver @ file:///C:/b/abs_faf90xet7a/croot/kiwisolver_1737040915779/work
+linkify-it-py==2.0.3
+Markdown==3.8.2
+markdown-it-py==4.0.0
+MarkupSafe==3.0.2
+matplotlib==3.10.5
+matplotlib-inline==0.1.7
+mdit-py-plugins==0.5.0
+mdurl==0.1.2
+mkl-service==2.4.0
+mkl_fft @ file:///C:/Users/dev-admin/mkl/mkl_fft_1730824198951/work
+mkl_random @ file:///C:/Users/dev-admin/mkl/mkl_random_1730824302834/work
+narwhals @ file:///C:/b/abs_224ub5a528/croot/narwhals_1742845975749/work
+nest-asyncio==1.6.0
+numexpr @ file:///C:/b/abs_4e0h6i5ip2/croot/numexpr_1752521729801/work
+numpy @ file:///C:/b/abs_958d_utj4g/croot/numpy_and_numpy_base_1750883811830/work/dist/numpy-2.3.1-cp313-cp313-win_amd64.whl#sha256=a5427a7212475edd8f7de263059ae980c79c778992c6f3404e31619b5a37c706
+packaging @ file:///C:/b/abs_f7t3vr2_lo/croot/packaging_1753775377650/work
+pandas @ file:///C:/b/abs_58a1hlvjeo/croot/pandas_1756466410850/work/dist/pandas-2.3.2-cp313-cp313-win_amd64.whl#sha256=e3d25986bd6f7ec53acbba8bf94ee4f49c11b115835d0b9a4c62809e4f788a80
+panel==1.7.5
+param==2.2.1
+parso==0.8.5
+patsy @ file:///C:/b/abs_f9h0eiedk0/croot/patsy_1738159949276/work
+pillow @ file:///C:/b/abs_b06nvnir5m/croot/pillow_1752524543576/work
+platformdirs==4.4.0
+plotly @ file:///C:/b/abs_8926yyyylu/croot/plotly_1756453681452/work
+prompt_toolkit==3.0.52
+psutil==7.0.0
+pure_eval==0.2.3
+Pygments==2.19.2
+pyparsing @ file:///C:/Users/dev-admin/buildout/croot/pyparsing_1735861809022/work
+PyQt6==6.7.1
+PyQt6_sip @ file:///C:/b/abs_25j3xlesmj/croot/pyqt-split_1753427295085/work/pyqt_sip
+python-dateutil @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/python-dateutil_1729038406576/work
+pytz @ file:///C:/b/abs_f8wdzeix0n/croot/pytz_1752135878094/work
+pyviz_comms==3.0.6
+pywin32==311
+PyYAML==6.0.2
+pyzmq==27.0.2
+requests==2.32.5
+retrying==1.4.2
+scikit-learn @ file:///C:/b/abs_45qemhn4lg/croot/scikit-learn_1753427401078/work
+scipy @ file:///C:/b/abs_b9r7ium9ba/croot/scipy_1753384423349/work/dist/scipy-1.16.0-cp313-cp313-win_amd64.whl#sha256=912f9f314f3f3dee4a8054ac317c15eb73cd509d6e26e6bbd0fe02bc8d9f8bf1
+seaborn @ file:///C:/b/abs_0bv5x0ucxb/croot/seaborn_1749110315600/work
+setuptools==72.1.0
+sip @ file:///C:/b/abs_5cto136kse/croot/sip_1738856220313/work
+six @ file:///C:/b/abs_149wuyuo1o/croot/six_1744271521515/work
+stack-data==0.6.3
+statistics==1.0.3.5
+statsmodels @ file:///C:/b/abs_6f5u1m2ygp/croot/statsmodels_1753363817829/work
+threadpoolctl @ file:///C:/b/abs_3904pspv77/croot/threadpoolctl_1731006105881/work
+tornado @ file:///C:/b/abs_7dzpc171lf/croot/tornado_1748956950306/work
+tqdm==4.67.1
+traitlets==5.14.3
+typing_extensions==4.15.0
+tzdata @ file:///croot/python-tzdata_1746123641790/work
+uc-micro-py==1.0.3
+urllib3==2.5.0
+wcwidth==0.2.13
+webencodings==0.5.1
+Werkzeug==3.1.3
+wheel==0.45.1
+xyzservices==2025.4.0
+zipp==3.23.0
